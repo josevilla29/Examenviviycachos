@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,800&display=swap');
+
+body{
+	font-family: Montserrat !important;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+}
+
+.list h5{
+	margin:0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+	
+}
+
+.trending{
+	border-radius: 100%;
+}
+
+.top-playlist{
+	height: 70px;
+}
+
+.top-artist{
+	height: 50px;
+}
+
+h3{
+	font-size: 15px;
+}
+
+.artist-cover{
+	background: 70px;
+}
+
+
+.artist-albums{
+	height: 60px; 
+}
