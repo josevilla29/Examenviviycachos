@@ -24,18 +24,17 @@ var myApp = new Framework7({
     	name: 'perfil',
   		},
 		
-		
-		{
-		path: '/artist/',
-    	url: 'artist.html',
-    	name: 'artist',
-  		},
-
-		
 		{
 		path: '/playlist/',
     	url: 'playlist.html',
     	name: 'playlist',
+  		},
+
+		
+		{
+		path: '/album/',
+    	url: 'album.html',
+    	name: 'album',
   		},
 		
 	
@@ -48,39 +47,10 @@ var myApp = new Framework7({
 		
 		
 		{
-		path: '/menu/',
-    	url: 'menu.html',
-    	name: 'menu',
+		path: '/perfil/',
+    	url: 'perfil.html',
+    	name: 'perfil',
   		},
-		
-		{
-		path: '/info/',
-    	url: 'info.html',
-    	name: 'info',
-  		},
-		
-		
-
-		
-		
-		{
-		path: '/about/',
-    	url: 'about.html',
-    	name: 'about',
-  		},
-		
-		
-		
-		
-		{
-		path: '/lugares/',
-    	url: 'lugares.html',
-    	name: 'lugares',
-  		},
-		
-		
-		
-	
 		
 		
 		
